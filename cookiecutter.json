@@ -1,0 +1,13 @@
+{
+    "project_slug": "helloworld", 
+    "quark_name": "HelloWorld",
+    "initial_class": "HelloWorld", 
+    "author": "your name", 
+    "summary": "Summary of your Quark",
+    "organization": "your org", 
+    "open_source_license": [
+        "GNU General Public License v3", 
+        "MIT license"        
+    ],
+    "git_init": "y"
+}

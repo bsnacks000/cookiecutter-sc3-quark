@@ -1,0 +1,9 @@
+(
+  name: "{{ cookiecutter.quark_name }}",
+  summary: "{{ cookiecutter.summary }}",
+  version: "0.1.0",
+  schelp: "Classes/{{cookiecutter.initial_class}}",
+  organization: "{{ cookiecutter.organization }}"
+  dependencies: [],
+  isCompatible:	{ Main.versionAtLeast(3,11) }
+)

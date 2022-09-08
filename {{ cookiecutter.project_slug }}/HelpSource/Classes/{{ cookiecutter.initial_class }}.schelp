@@ -1,0 +1,22 @@
+TITLE:: {{ cookiecutter.initial_class }}
+summary:: {{ cookiecutter.summary  }}
+categories:: Dev
+
+DESCRIPTION::
+Testing devops stuff for sc dev
+
+
+CLASSMETHODS::
+
+METHOD:: speak
+What a method... it says hello world  :p
+
+
+INSTANCEMETHODS::
+
+
+EXAMPLES::
+
+code::
+{{ cookiecutter.initial_class }}.speak;
+::
